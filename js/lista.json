@@ -1,0 +1,32 @@
+{
+    "listaAlunos":[
+        {
+            "id":1,
+            "nome":"Vitória",
+            "sobrenome":"Gonçalves",
+            "idade":17,
+            "email":"vitorinha@gmail.com"
+        },
+        {
+            "id":2,
+            "nome":"Guilherme",
+            "sobrenome":"Delfino",
+            "idade":17,
+            "email":"defino@gmail.com"
+        },
+        {
+            "id":3,
+            "nome":"Jodevaldo",
+            "sobrenome":"Silva",
+            "idade":57,
+            "email":"jodevaldo@gmail.com"
+        },
+        {
+            "id":4,
+            "nome":"Anna",
+            "sobrenome":"Mintes",
+            "idade":20,
+            "email":"anna@gmail.com"
+        }
+    ]
+}
